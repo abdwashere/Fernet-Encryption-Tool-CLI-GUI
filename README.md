@@ -9,7 +9,7 @@ simple cli program to encrypt and decrypt messages
 GUI file:
 Password Mode: Best for memorizing a secret. Requires the Salt to decrypt later.
 Key Mode: Generates a random, high-entropy Fernet key.
-
+![App Screenshot](image.png)
 
 Prerequisites
 Before running the script, ensure you have the `cryptography` library installed:
