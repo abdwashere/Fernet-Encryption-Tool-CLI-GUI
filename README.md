@@ -19,4 +19,3 @@ pip install cryptography
 git clone https://github.com/abdwashere/Fernet-Encryption-Tool-CLI-GUI.git
 cd Fernet-Encryption-Tool-CLI-GUI
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99597c7b-0c3e-4fa9-940a-3aef47e3c6ef" />
